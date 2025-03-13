@@ -13,5 +13,4 @@ branch1
 5
 6
 branch2
-2
-3
+1
